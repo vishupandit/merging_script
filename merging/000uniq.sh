@@ -117,6 +117,7 @@ esac
 
 while [ 0 ];
   do 
+    echo "      welcome folks"
     print_menu
     response
 done
